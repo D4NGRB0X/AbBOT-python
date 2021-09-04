@@ -221,7 +221,7 @@ zip_codes = [
   75398,
 ]
 # TX IPs gathered from here: https://www.xmyip.com/ip-addresses/united--states/texas
-ips = {
+ips = [
   "66.241.29.", 	# Addison
   "63.113.179.",	# Austin
   "66.68.131.",	  # Austin
@@ -322,7 +322,7 @@ ips = {
   "68.113.212.",	# Watauga
   "63.82.222.",	  # Weatherford
   "24.27.66."	    # Wylie
-}
+]
 # random element from each list
 
 
